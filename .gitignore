@@ -1,0 +1,7 @@
+# IGNORE
+**/*.log
+**/*.sh
+**/.env
+
+# KEEP!
+!run.sh
